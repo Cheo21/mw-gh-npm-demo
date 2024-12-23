@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@cheo21:registry": "https://npm.pkg.github.com"
+}
+
 }
